@@ -43,7 +43,7 @@ The primary source of this dataset **hrdata.csv** is from open source platform K
 
 
 ### Tools Used 
-- Power BI: For data cleaning, analysis, visualization and dashboard creation.
+- Power BI: For data cleaning, analysis, visualization, dashboard creation.
 - SQL (if applicable): For any additional preprocessing or querying.
 - Excel/CSV: For data import and exploration.
 
@@ -67,6 +67,12 @@ Data Transformation:
 - Created additional columns where necessary, such as:
 - Attrition Count: This was not initially a value on the table, so the attrition rate could not be calculated until A conditional column was created to this effect.
   *formula to calculate attrition rate Attrition = count by the total number of employee*
+
+```SQL
+SELECT * Attrition Count
+WHERE AVG AGE >= 20
+```
+  
 - Tenure: Based on the length of employment (can be derived from relevant columns like years).
 - Job Satisfaction: A calculated measure of job satisfaction based on available data.
   
