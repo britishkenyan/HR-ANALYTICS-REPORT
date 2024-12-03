@@ -139,9 +139,7 @@ Based on the analysis, here are some actionable recommendations for IBM HR as fo
 - Salary Review: Conduct a salary review to ensure employees in high-turnover departments like Sales are compensated fairly compared to industry standards.
 - Diversity and Inclusion Programs: Focus on promoting diversity, especially in high-turnover roles, and ensure that employee concerns regarding gender or age bias are addressed.
 
----
 ### Project Learnings
----
 
 ### Conclusion
 This analysis provided valuable insights into IBM’s employee attrition patterns. The findings suggest that younger employees and certain job roles experience higher turnover rates. By implementing targeted retention strategies and adjusting performance management practices, IBM can reduce attrition and improve employee satisfaction.
