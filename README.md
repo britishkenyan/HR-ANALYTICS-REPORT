@@ -26,14 +26,14 @@ Here is a comprehensive report analyzing IBM HR Data to discover trends, challen
 ---
 
 ### Project Overview
-This Data Analysis project aims to dive into IBM HR Data. The dashboard explores HR metrics and KPIs, with key focus on attrition rates, employee demographics, salary and job satisfaction ratings. The goal of this project is to analyze the HR data to identify trends and patterns that can help improve employee retention and inform HR strategies at IBM.
+This Data Analysis project aims to dive into IBM HR Data. The dashboard explores HR metrics and KPIs, with key focus on attrition rates, employee demographics, salary and job satisfaction ratings. The goal of this project is to analyze the HR data to gain insights on attrition and identify trends and patterns that can  help improve employee retention and inform HR strategies at IBM.
 
 ### Project Scope 
 This analysis will explore the following:
 
 - Employee Attrition: Understanding why employees leave and predicting the likelihood of attrition.
 - Employee Performance: Analyzing factors that correlate with employee performance.
-- Salary & Job Satisfaction: Investigating how these factors affect employee turnover and job satisfaction.
+- Salary & Job Satisfaction: Investigating how these factors determine attrition and affect employee turnover and job satisfaction.
 
 ### Objective
 The primary objective is to identify trends in employee turnover, determine the key factors influencing attrition, and provide recommendations for improving employee retention using Power BI’s analytical capabilities.
@@ -65,6 +65,8 @@ Data Cleaning:
 
 Data Transformation: 
 - Created additional columns where necessary, such as:
+- Attrition Count: This was not initially a value on the table, so the attrition rate could not be calculated until A conditional column was created to this effect.
+  *formula to calculate attrition rate Attrition = count by the total number of employee*
 - Tenure: Based on the length of employment (can be derived from relevant columns like years).
 - Job Satisfaction: A calculated measure of job satisfaction based on available data.
   
