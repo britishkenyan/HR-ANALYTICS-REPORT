@@ -3,7 +3,7 @@ Here is a comprehensive report analyzing IBM HR Data to discover trends, challen
 
 ----
 
-### Contents (*click on the link to go directly to the page*)
+### Contents
 
 [Project Overview](#project-overview)
 
@@ -39,8 +39,8 @@ This analysis will explore the following:
 The primary objective is to identify trends in employee turnover, determine the key factors influencing attrition, and provide recommendations for improving employee retention using Power BI’s analytical capabilities.
    
 ### Data Sources
-The primary source of this dataset **hrdata.csv** is from open source platform Kaggle. The dataset contains information about employees, such as demographics, job role, salary, performance, and reasons for attrition - [download here] (https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-analytics-attrition-dataset)
-- Microsoft Excel - [Download Here] (https://www.microsoft.com) 
+The primary source of this dataset **hrdata.csv** is from open source platform Kaggle. The dataset contains information about employees, such as demographics, job role, salary, performance, and reasons for attrition - [download here](https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-analytics-attrition-dataset).
+
 
 ### Tools Used 
 - Power BI: For data cleaning, analysis, visualization and dashboard creation.
