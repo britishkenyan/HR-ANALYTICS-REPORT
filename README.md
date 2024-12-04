@@ -82,6 +82,7 @@ Data Model:
 ### Exploratory Data Analysis (EDA)
 Summary Statistics:
 - Age: Mean age of employees, distribution of age across the company.
+- Gender: The males were more than females employees who left the company 
 - Tenure: Length of employment across different job roles.
 - Performance Ratings: Distribution of performance ratings and its relationship to attrition.
 - Job Satisfactory Ratings:  Distribution of job satisfactory ratings and its relationship to attrition.
@@ -123,6 +124,7 @@ Power Query to clean and transform data (e.g., replacing null values, merging co
 Custom Visuals for advanced visualizations like cluster maps or KPI indicators.
 
 ### Key Findings
+Reasearch and development department has a high number of employees who left the company
 Employee Demographics & Attrition:
 Younger employees (under 30) exhibit higher attrition rates.
 Employees in Sales and Research roles tend to leave more frequently than those in Engineering or HR.
