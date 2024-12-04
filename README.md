@@ -66,7 +66,11 @@ Data Cleaning:
 Data Transformation: 
 - Created additional columns where necessary, such as:
 - Attrition Count: This was not initially a value on the table, so the attrition rate could not be calculated until A conditional column was created to this effect.
+- Calculated Measure
+- Attrition rate is the count of attrition divided by total employee converted to percentage.
+- In order to get attrition count to determine attrition rate, we created a DAX using a calculated measure
   *formula to calculate attrition rate Attrition = count by the total number of employee*
+  *attriti
 
 ```SQL
 SELECT * Attrition Count
@@ -124,10 +128,11 @@ Power Query to clean and transform data (e.g., replacing null values, merging co
 Custom Visuals for advanced visualizations like cluster maps or KPI indicators.
 
 ### Key Findings
-Reasearch and development department has a high number of employees who left the company
+Research and development department has a high number of employees who left the company
 Employee Demographics & Attrition:
 Younger employees (under 30) exhibit higher attrition rates.
 Employees in Sales and Research roles tend to leave more frequently than those in Engineering or HR.
+The Human resources department had the highest number of atrrition which bring us to think why the department in charge of recruitment are losing employees 
 
 Performance & Salary:
 Higher performance ratings tend to reduce the likelihood of attrition.
