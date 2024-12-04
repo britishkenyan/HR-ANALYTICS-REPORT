@@ -57,7 +57,7 @@ Data Import: The data was imported into Power BI from the Kaggle dataset, typica
 - DistanceFromHome: Distance of the employee’s home from the office.
 - Performance Rating: Rating of employee performance.
 - Education: Level of education attained by the employee.
-
+.
 Data Cleaning:
 - Missing Values: Identified and handled any missing data, ensuring consistency across records.
 - Data Type Correction: Ensured that all columns were in the correct data type (e.g., converting numerical columns to numeric types).
