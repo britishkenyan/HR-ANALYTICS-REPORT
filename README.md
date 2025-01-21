@@ -132,7 +132,7 @@ Research and development department has a high number of employees who left the 
 Employee Demographics & Attrition:
 Younger employees (under 30) exhibit higher attrition rates.
 Employees in Sales and Research roles tend to leave more frequently than those in Engineering or HR.
-The Human resources department had the highest number of atrrition which bring us to think why the department in charge of recruitment are losing employees 
+The Human resources department had the highest number of attrition which bring us to think why the department in charge of recruitment losing employees 
 
 Performance & Salary:
 Higher performance ratings tend to reduce the likelihood of attrition.
